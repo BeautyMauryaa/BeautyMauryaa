@@ -45,9 +45,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
   <a href="https://www.youtube.com/@noovahub" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" />
   </a>
 </p>
+
 
 
 ---
@@ -63,6 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-**I rise even when I fall, I shine even when I break — because I am my own reason to keep moving forward.
-~ Noova**
+<h3 align="center"> I rise even when I fall, I shine even when I break - because I am my own reason to keep moving forward.<br>
+~ Noova</h3>
 

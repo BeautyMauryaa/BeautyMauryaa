@@ -2,6 +2,9 @@
 <h2 align="center">I am Beauty(aka Noova)😊</h2>
 <h3 align="center">Web Developer | AI/ML Enthusiast | DevOps & Cloud Explorer</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
+</p>
 
 
 ---
@@ -32,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
 </p>
 
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/beauti-maurya-852a3b285/" target="_blank">
@@ -49,8 +51,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ## 🔥 GitHub Stats  
@@ -59,11 +59,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beautymaurya28&theme=tokyonight" alt="streak stats" height="130"/>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="center"> I rise even when I fall, I shine even when I break - because I am my own reason to keep moving forward.<br>
-~ Noova</h3>
+---
 
+## 👁️ Visitor Count  
+<p align="center">
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Beautymaurya28.Beautymaurya28)
+</p>
+
+<h3 align="center">I rise even when I fall, I shine even when I break – because I am my own reason to keep moving forward.<br>
+~ Noova</h3>

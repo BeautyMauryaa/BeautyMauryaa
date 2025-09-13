@@ -65,10 +65,5 @@
 
 ---
 
-## 👁️ Visitor Count  
-<p align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Beautymaurya28.Beautymaurya28)
-</p>
-
 <h3 align="center">I rise even when I fall, I shine even when I break – because I am my own reason to keep moving forward.<br>
 ~ Noova</h3>

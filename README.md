@@ -40,9 +40,8 @@
 ---
 
 ### 💻 My Tech Snapshot
-javascript
 const nova = {
-  languages: ["Python", "JavaScript", "C++", "SQL"],
+  languages: ["Python", "JavaScript", "C++"],
   frameworks: ["Flask", "Django", "React"],
   UI: ["TailwindCSS", "shadcn/ui", "Figma"],
   tools: ["VS Code", "Git", "Postman", "Render", "Railway"],

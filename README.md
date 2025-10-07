@@ -39,6 +39,21 @@
 
 ---
 
+### 💻 My Tech Snapshot
+javascript
+const nova = {
+  languages: ["Python", "JavaScript", "C++", "SQL"],
+  frameworks: ["Flask", "Django", "React"],
+  UI: ["TailwindCSS", "shadcn/ui", "Figma"],
+  tools: ["VS Code", "Git", "Postman", "Render", "Railway"],
+  db: ["MongoDB", "PostgreSQL", "SQLite"],
+  currentlyLearning: ["System Design", "AI & ML Integration", "NextAuth", "OS Internals"],
+};
+
+
+
+
+
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/beauti-maurya-852a3b285/" target="_blank">

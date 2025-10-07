@@ -36,10 +36,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
 </p>
-
+---
 
 ### 💻 My Tech Snapshot
-``` const nova = {
+const nova = {
   languages: ["Python", "JavaScript", "C++"]
   frameworks: ["Flask", "Django", "React"],
   UI: ["TailwindCSS", "shadcn/ui", "Figma"],
@@ -48,6 +48,7 @@
   currentlyLearning: ["System Design", "AI & ML Integration", "NextAuth", "OS Internals"],
  };
 
+---
 
 
 

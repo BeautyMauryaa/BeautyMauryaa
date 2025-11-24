@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently diving deep into **Python Full Stack Development (Flask → React → Django)**  
+- 🌱 Currently diving deep into ** Full Stack Development**  
 - 🤖 Exploring the magic of **AI, Machine Learning, and Intelligent Web Systems**  
 - 🧠 Focused on mastering **DSA, Backend Development, and RESTful APIs**  
 - 💬 Ask me about **Python, Flask, Django, React, APIs, OpenAI, and Web Deployment**  

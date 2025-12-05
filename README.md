@@ -9,12 +9,11 @@
 ---
 
 ### 👩‍💻About Me
--🌱 Currently strengthening my fundamentals in AI, DSA, and Development
--🧠 Focused on understanding concepts deeply & building things that actually work
--💻 Learning Python, C++, JavaScript, and improving my problem-solving skills
--🔍 Interested in AI, clean development, and building structured, intuitive systems
--💬 Ask me about Python, basic C++, HTML, CSS, JavaScript, MongoDB
--📫 Reach me at: beautymaurya9142@gmail.com
+- 🌱 Currently strengthening my fundamentals in AI, DSA, and Development
+- 🧠 Focused on understanding concepts deeply & building things that actually work
+- 💻 Learning Python, C++, JavaScript, and improving my problem-solving skills
+- 🔍 Interested in AI, clean development, and building structured, intuitive systems 
+- 📫 Reach me at: beautymaurya9142@gmail.com
 - 😽 Fun fact: I live in just two moods — *Need of some good food🍕& Where is my Laptop 💻🐱‍👤*
 
 <p align="center">

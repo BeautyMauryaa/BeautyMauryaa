@@ -1,6 +1,5 @@
-<h1 align="center">Hello Jii👋, Welcome to NoovaHub!</h1>
-<h2 align="center">I am Beauty (aka Noova) 😊</h2>
-<h3 align="center">Full Stack Developer | AI & ML Explorer </h3>
+<h2 align="center">Hello👋,I am Beauty (aka Noova) 😊</h2>
+<h3 align="center">AI & Tech-Oriented | Learning to Build Better Every Day</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>

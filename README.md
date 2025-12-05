@@ -36,17 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
 </p>
----
-
-### 💻 My Tech Snapshot
-const nova = {
-  languages: ["Python", "JavaScript", "C++"]
-  frameworks: ["Flask", "Django", "React"],
-  UI: ["TailwindCSS", "shadcn/ui", "Figma"],
-  tools: ["VS Code", "Git", "Postman", "Render", "Railway"],
-  db: ["MongoDB", "PostgreSQL", "SQLite"],
-  currentlyLearning: ["System Design", "AI & ML Integration", "NextAuth", "OS Internals"],
- };
 
 ---
 

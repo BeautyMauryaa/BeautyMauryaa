@@ -63,13 +63,13 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=beautymaurya28&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=Beautymaurya28&show_icons=true&theme=tokyonight&cache_seconds=1800" 
     alt="Beautymaurya28's GitHub Stats"
     height="150" 
   />
   
   <img 
-    src="https://streak-stats.demolab.com/?user=beautymaurya28&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=Beautymaurya28&theme=tokyonight" 
     alt="Beautymaurya28's GitHub Streak"
     height="150" 
   />
@@ -79,7 +79,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" 
     alt="Beautymaurya28's Top Languages"
   />
 </div>

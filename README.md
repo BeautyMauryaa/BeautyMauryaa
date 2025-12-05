@@ -56,30 +56,16 @@
 </p>
 
 ---
-## 🔥 GitHub Stats
-
+## 🔥 GitHub Stats  
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Beautymaurya28&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    alt="Beautymaurya28's GitHub Stats"
-    height="150" 
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com/?user=Beautymaurya28&theme=tokyonight" 
-    alt="Beautymaurya28's GitHub Streak"
-    height="150" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beautymaurya28&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Beautymaurya28&theme=tokyonight" height="150" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<div align="center">
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    alt="Beautymaurya28's Top Languages"
-  />
-</div>
 
 <h3 align="center">I rise even when I fall, I shine even when I break — because I am my own reason to keep moving forward.<br>
 ~ Noova 🦋</h3>

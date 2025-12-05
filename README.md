@@ -17,7 +17,7 @@
 * 😽 Fun fact: I live in just two moods — *Need of some good food🍕& Where is my Laptop 💻🐱‍👤*
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TY1VNBsvU71J6wh4QLY79Xe--yElnR" alt="Anime Gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/>
   <img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
 </p>
 

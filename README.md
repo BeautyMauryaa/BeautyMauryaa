@@ -63,8 +63,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beautymaurya28&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 <h3 align="center">I rise even when I fall, I shine even when I break — because I am my own reason to keep moving forward.<br>

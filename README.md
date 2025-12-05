@@ -8,13 +8,14 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 Currently diving deep into ** Full Stack Development**  
-- 🤖 Exploring the magic of **AI, Machine Learning, and Intelligent Web Systems**  
-- 🧠 Focused on mastering **DSA, Backend Development, and RESTful APIs**  
-- 💬 Ask me about **Python, Flask, Django, React, APIs, OpenAI, and Web Deployment**  
-- 📫 Reach me at **beautymaurya9142@gmail.com**  
-- 😽 Fun fact: I live in just two moods — *Hungry🍕 & Where is my Laptop 💻🐱‍👤*
+### 👩‍💻About Me
+-🌱 Currently strengthening my fundamentals in AI, DSA, and Development
+-🧠 Focused on understanding concepts deeply & building things that actually work
+-💻 Learning Python, C++, JavaScript, and improving my problem-solving skills
+-🔍 Interested in AI, clean development, and building structured, intuitive systems
+-💬 Ask me about Python, basic C++, HTML, CSS, JavaScript, MongoDB
+-📫 Reach me at: beautymaurya9142@gmail.com
+- 😽 Fun fact: I live in just two moods — *Need of some good food🍕& Where is my Laptop 💻🐱‍👤*
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ" alt="Anime Gif" width="350"/>

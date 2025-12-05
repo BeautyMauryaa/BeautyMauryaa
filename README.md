@@ -70,6 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautymaurya28&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<img src="https://github-readme-stats-beautymaurya28.vercel.app/api?username=Beautymaurya28&show_icons=true&theme=tokyonight" />
+
+
 
 <h3 align="center">I rise even when I fall, I shine even when I break — because I am my own reason to keep moving forward.<br>
 ~ Noova 🦋</h3>

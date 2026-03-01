@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋,I am Beauty (aka Noova) 😊</h2>
+<h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">AI-Powered Full Stack Developer in Training | Backend-First Engineer</h3>
 
 <p align="left">

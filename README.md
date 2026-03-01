@@ -69,7 +69,7 @@
 ## 🔥 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Beautymaurya28&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Beautymaurya28&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" />
 </div>
 
 <p align="center">

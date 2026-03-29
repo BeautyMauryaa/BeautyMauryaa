@@ -1,5 +1,5 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
-<h3 align="center">AI-Powered Full Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
@@ -7,46 +7,57 @@
 
 ---
 
+
 ### 👩‍💻 About Me
-
 - 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
-- 💻 Currently building as an AI-Powered Full Stack Developer and practicing DSA in C++.
-- 💬 Ask me about Backend System Design, JWT-based Authentication, MongoDB Schema Modeling, React Architecture, MERN Stack Development, Git & GitHub, AI Integration Workflows, Python, JavaScript, and DSA fundamentals.
+- 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
+- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
-- 😽 Fun fact: I live in just two moods — need good food 🍕 or where is my laptop 💻🐱‍👤*
+- 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/>
-  <img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
+ <p align="center">
+<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/> 
+<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🚀 Featured Projects
 
+- 🔹 **Pipoo** — AI Voice Desk Assistant (Python + AI APIs)
+- 🔹 **Learnex** — AI-powered learning platform (MERN + AI)
+- 🔹 **School Touch** — Digital school management system
+
+---
+### 🛠️ Tech Stack
+ 
 <p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++ (DSA)"/>
+ 
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+ 
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express"/>
+ 
   <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
+ 
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker (learning)"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
 </p>
+ 
 ---
 
 ## 🌐 Connect With Me  

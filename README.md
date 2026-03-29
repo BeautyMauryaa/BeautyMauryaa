@@ -68,14 +68,13 @@
 ---
 ## 🔥 GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" height="150" />
   <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" />
 </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyMauryaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 
 <h3 align="center">I rise when I fall. I shine through the cracks. I move forward because I choose to.<br>

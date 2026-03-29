@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 - 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
 - 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
-- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)**
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
 - 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
 
@@ -28,6 +28,15 @@
 - 🔹 **Learnex** — AI-powered learning platform (MERN + AI)
 - 🔹 **School Touch** — Digital school management system
 
+### 🛠️ Tech Stack
+ 
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" /> |
+| **AI & APIs** | <img src="https://skillicons.dev/icons?i=openai,fastapi" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" /> |
 ---
 ### 🛠️ Tech Stack
  

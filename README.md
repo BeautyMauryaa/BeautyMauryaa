@@ -1,8 +1,9 @@
 <h2 align="center">Hey there 👋 I'm Nova — aka Beauty</h2>
 <h3 align="center">Aspiring Full Stack Developer · Learning in Public · BCA Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=blue&style=flat-square" alt="Profile Views"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Beautymauryaa&color=blue" alt="Profile Views"/>
 </p>
 
 ---

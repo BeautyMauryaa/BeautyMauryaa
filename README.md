@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Nova (aka Beauty)</h2>
-<h3 align="center">Full Stack Developer(MERN) | AI Integration Enthusiast</h3>
+<h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
@@ -8,16 +8,16 @@
 ---
 
 ### 👩‍💻 About Me
+- 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
+- 💻 Currently building as an AI-Powered Full Stack Developer and practicing DSA in C++.
+- 💬 Ask me about Backend System Design, JWT-based Authentication, MongoDB Schema Modeling, React Architecture, MERN Stack Development, Git & GitHub, AI Integration Workflows, Python, JavaScript, and DSA fundamentals.
+- 📫 Reach me at: **beautymaurya9142@gmail.com**
+- 😽 Fun fact: I live in just two moods — need good food 🍕 or where is my laptop 💻🐱‍👤*
 
-- 🚀 Backend-focused developer building scalable systems with real-world logic.
-- 🧠 Currently mastering **AI-powered full stack development** + **DSA in C++**.
-- ⚙️ Strong in **API design, authentication systems, database modeling, and clean architecture**.
-- 🤖 Exploring **LLM integrations, AI workflows, and intelligent product building**.
-- 📈 Goal: Becoming a high-value engineer capable of building impactful, production-ready systems.
-
-📫 Reach me at: **beautymaurya9142@gmail.com**
-
----
+ <p align="center">
+<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/> 
+<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
+</p>
 
 ### 🚀 Featured Projects
 

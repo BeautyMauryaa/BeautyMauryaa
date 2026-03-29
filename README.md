@@ -31,33 +31,47 @@
 ---
 ### 🛠️ Tech Stack
  
+**Languages**
 <p align="left">
-  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++ (DSA)"/>
+</p>
  
-  <!-- Frontend -->
+**Frontend**
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind CSS"/>
+</p>
  
-  <!-- Backend -->
+**Backend**
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express"/>
- 
-  <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
+</p>
  
-  <!-- Tools -->
+**AI & Integrations**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" width="40" height="40" title="OpenAI API"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python (AI Scripts)"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" title="FastAPI (learning)"/>
+</p>
+ 
+**Tools & DevOps**
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker (learning)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code"/>
 </p>
- 
+
 ---
 
 ## 🌐 Connect With Me  

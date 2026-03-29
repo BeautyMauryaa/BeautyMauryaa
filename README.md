@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Nova (aka Beauty)</h2>
-<h3 align="center">Backend-Focused Full Stack Developer | AI Integration Enthusiast</h3>
+<h3 align="center">Full Stack Developer(MERN) | AI Integration Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>

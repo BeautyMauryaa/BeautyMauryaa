@@ -12,7 +12,7 @@
 - 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
 - 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
-- 😽 Fun fact: I live in just two moods — need food 🍕 or where is my laptop 💻🐱‍👤*
+- 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
 
  <p align="center">
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/> 

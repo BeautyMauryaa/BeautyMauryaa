@@ -52,18 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 🧠 Core Skills
-
-- Backend System Design  
-- REST API Development  
-- JWT Authentication & Authorization  
-- MongoDB Schema Design  
-- AI API Integration (LLMs)  
-- Data Structures & Algorithms (C++)  
-
 ---
 
 ### 🌐 Connect With Me  
@@ -99,6 +87,6 @@
 ---
 
 <h3 align="center">
-“Consistency over talent. Execution over excuses. Growth over everything.” <br>
-~ Noova ⚡
+“Every day I either improve or fall behind—so I choose improvement, no matter what” <br>
+~ Me🦋
 </h3>

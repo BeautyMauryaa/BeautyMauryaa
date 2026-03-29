@@ -59,15 +59,11 @@
 ---
 ---
 
-### 📊 GitHub Analytics
-
+## 🔥 GitHub Stats
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-
-  <img src="https://streak-stats.demolab.com?user=BeautyMauryaa&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" height="150" /> 
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" /> 
+</div
 
 
 <p align="center">
@@ -76,5 +72,5 @@
 
 
 
-<h3 align="center">I rise when I fall. I shine through the cracks. I move forward because I choose to.<br>
+<h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
 ~ Noova 🦋</h3>

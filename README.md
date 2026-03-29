@@ -49,20 +49,20 @@
 </p>
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/beauti-maurya-852a3b285/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
-  <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/noovaa.x/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@noovahub" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" alt="YouTube" />
-  </a>
+  <a href="https://www.linkedin.com/in/beautymaurya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/xplorewithnova/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/xplorewithnova" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+  </a>
 </p>
 
 ---

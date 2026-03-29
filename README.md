@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Nova (aka Beauty)</h2>
-<h3 align="center">AI-Integrated Full Stack Developer | Backend-Focused Systems Builder</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | AI Integration Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 
-- 🚀 Backend-focused developer building scalable and structured systems.
-- 🧠 Currently mastering **AI-integrated full stack development** + **DSA in C++**.
-- ⚙️ Strong in **API design, authentication systems, and database modeling**.
-- 🤖 Building real-world applications using **LLM APIs and AI workflows**.
-- 📈 Focused on becoming a high-impact engineer with strong fundamentals + real product experience.
+- 🚀 Backend-focused developer building scalable systems with real-world logic.
+- 🧠 Currently mastering **AI-powered full stack development** + **DSA in C++**.
+- ⚙️ Strong in **API design, authentication systems, database modeling, and clean architecture**.
+- 🤖 Exploring **LLM integrations, AI workflows, and intelligent product building**.
+- 📈 Goal: Becoming a high-value engineer capable of building impactful, production-ready systems.
 
 📫 Reach me at: **beautymaurya9142@gmail.com**
 
@@ -21,60 +21,48 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 **Pipoo** — AI Voice Desk Assistant (Python + LLM APIs + Voice Interaction)
-- 🔹 **Learnex** — AI-powered learning platform (MERN + AI features)
-- 🔹 **School Touch** — Full-stack school management system
+- 🔹 **Pipoo** — AI Voice Desk Assistant (Python + AI APIs)
+- 🔹 **Learnex** — AI-powered learning platform (MERN + AI)
+- 🔹 **School Touch** — Digital school management system
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 
   <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🧠 Core Skills
 
+- Backend System Design  
 - REST API Development  
 - JWT Authentication & Authorization  
-- Backend Architecture & System Design  
 - MongoDB Schema Design  
 - AI API Integration (LLMs)  
-- State Management & Component Design (React)  
 - Data Structures & Algorithms (C++)  
-
----
-
-### ⚡ AI & Backend Focus
-
-- LLM API Integration (chat, automation, workflows)  
-- Prompt structuring & response handling  
-- Backend-driven AI features (not just frontend calls)  
-- Building AI-powered real-world applications  
 
 ---
 

@@ -89,15 +89,13 @@
 </p>
 
 ---
-## 🤖 GitHub Analytics
- 
-<div align="center">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeautyMauryaa&theme=tokyonight&hide_border=true&background=13151F&ring=39D353&fire=39D353&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=39D353&sideNums=E6EDF3&currStreakNum=E6EDF3&stroke=1E2130&border=1E2130" height="170" alt="GitHub Streak" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=13151F&title_color=39D353&icon_color=58A6FF&text_color=C9D1D9&border_color=1E2130&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
- 
-</div>
+## 🔥 GitHub Stats 
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" height="150" /> 
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" /> </div>
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyMauryaa&layout=compact&theme=tokyonight&hide_border=true" />
+  </p>
 
 
 <h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>

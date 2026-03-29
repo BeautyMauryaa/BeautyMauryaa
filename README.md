@@ -91,7 +91,7 @@
 ---
 ## 🔥 GitHub Stats 
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&ring=22c55e&background=0d1117&fire=22c55e&currStreakLabel=ffffff&sideLabels=ffffff&dates=22c55e" />
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=transparent&hide_border=true&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&dates=22c55e" />
     <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 
 </div>
 

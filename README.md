@@ -8,13 +8,16 @@
 ---
 
 ### 👩‍💻 About Me
+- 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
+- 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
+- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)
+- 📫 Reach me at: **beautymaurya9142@gmail.com**
+- 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
 
-- 🎯 On a focused 6-month journey to master **AI-Powered Full Stack Development (MERN)** + **DSA in C++**
-- 🌱 Currently learning: **Node.js · Express · MongoDB · React · JWT Auth · Redis · DSA Patterns**
-- 🏗️ Building real projects from scratch — no tutorial dependency
-- 📹 Documenting everything on **YouTube → Nova** (learning out loud, one video at a time)
-- 💬 Ask me about: **JavaScript · React · Node.js · MongoDB · REST APIs**
-- 😽 Fun fact: I live in just two moods — need food 🍕 or where is my laptop 💻
+ <p align="center">
+<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/> 
+<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
+</p>
 
 ---
 

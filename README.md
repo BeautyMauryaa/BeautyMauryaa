@@ -91,8 +91,11 @@
 ---
 ## 🔥 GitHub Stats 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" height="150" /> 
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 
+  
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=ffffff&sideLabels=ffffff&dates=22c55e" height="150" /> 
+</div>
+
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyMauryaa&layout=compact&theme=tokyonight&hide_border=true" />
   </p>

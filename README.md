@@ -57,11 +57,18 @@
 </p>
 
 ---
-## 🔥 GitHub Stats 
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=tokyonight" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+
+  <img src="https://streak-stats.demolab.com?user=BeautyMauryaa&theme=tokyonight&hide_border=true" height="150" />
+
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyMauryaa&layout=compact&theme=tokyonight&hide_border=true" />

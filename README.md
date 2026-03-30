@@ -73,7 +73,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /></a>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
   <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
   <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>

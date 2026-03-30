@@ -1,6 +1,21 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
+### 🛠️ Tech Stack
 
+**Languages**
+![](https://skillicons.dev/icons?i=js,ts,python,cpp)
+
+**Frontend**
+![](https://skillicons.dev/icons?i=react,html,css,tailwind)
+
+**Backend**
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)
+
+**AI & APIs**
+![](https://skillicons.dev/icons?i=openai,fastapi)
+
+**Tools**
+![](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)

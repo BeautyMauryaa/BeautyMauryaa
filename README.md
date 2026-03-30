@@ -31,32 +31,21 @@
 ---
 
 ### 🛠️ Tech Stack
- 
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=8" height="30" />
-</p>
- 
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=8" height="30" />
-</p>
- 
-**Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=8" height="30" />
-</p>
- 
-**AI & APIs**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,fastapi&perline=8" height="30" />
-</p>
- 
-**Tools & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8" height="30" />
-</p>
- 
+
+**Languages** &nbsp;
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" height="28" />
+
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="28" />
+
+**Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" height="28" />
+
+**AI & APIs** &nbsp;
+<img src="https://skillicons.dev/icons?i=openai,fastapi" height="28" />
+
+**Tools** &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" height="28" />
 ---
 
 ## 🌐 Connect With Me  

@@ -35,7 +35,7 @@
 <tr>
 <td width="120"><strong>Languages</strong></td>
 <td>
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
     <img src="https://skillicons.dev/icons?i=js" height="35"/>
     <img src="https://skillicons.dev/icons?i=python" height="35"/>
     <img src="https://skillicons.dev/icons?i=cpp" height="35"/>
@@ -46,7 +46,7 @@
 <tr>
 <td><strong>Frontend</strong></td>
 <td>
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
     <img src="https://skillicons.dev/icons?i=react" height="35"/>
     <img src="https://skillicons.dev/icons?i=html" height="35"/>
     <img src="https://skillicons.dev/icons?i=css" height="35"/>
@@ -58,7 +58,7 @@
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
     <img src="https://skillicons.dev/icons?i=nodejs" height="35"/>
     <img src="https://skillicons.dev/icons?i=express" height="35"/>
     <img src="https://skillicons.dev/icons?i=mongodb" height="35"/>
@@ -69,7 +69,7 @@
 <tr>
 <td><strong>AI & APIs</strong></td>
 <td>
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
     <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
     <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
   </div>
@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Tools</strong></td>
 <td>
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
     <img src="https://skillicons.dev/icons?i=git" height="35"/>
     <img src="https://skillicons.dev/icons?i=github" height="35"/>
     <img src="https://skillicons.dev/icons?i=linux" height="35"/>

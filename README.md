@@ -74,19 +74,19 @@
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
-  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS3" /></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="35" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" /></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="35" alt="Postman" /></a>
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" /></a>
 </p>
 
 ---
@@ -94,16 +94,16 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/beautymaurya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/xplorewithnova/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
   <a href="https://twitter.com/xplorewithnova" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="30" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
 </p>
 

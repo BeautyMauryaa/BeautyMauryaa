@@ -16,8 +16,8 @@
 - 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
 
  <p align="center">
-<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="350"/> 
-<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
+<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="330"/> 
+<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="330"/>
 </p>
 
 ---
@@ -75,16 +75,16 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/beautymaurya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
   </a>
   <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/xplorewithnova/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="Instagram" />
   </a>
   <a href="https://twitter.com/xplorewithnova" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="30" alt="Twitter" />
   </a>
 </p>
 

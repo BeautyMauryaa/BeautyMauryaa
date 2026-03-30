@@ -29,15 +29,33 @@
 - 🔹 **School Touch** — Digital school management system
   
 ---
+
 ### 🛠️ Tech Stack
  
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" /> |
-| **AI & APIs** | <img src="https://skillicons.dev/icons?i=openai,fastapi" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" /> |
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=8" height="30" />
+</p>
+ 
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=8" height="30" />
+</p>
+ 
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=8" height="30" />
+</p>
+ 
+**AI & APIs**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai,fastapi&perline=8" height="30" />
+</p>
+ 
+**Tools & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8" height="30" />
+</p>
  
 ---
 

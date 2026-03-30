@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ### 🛠️ Tech Stack
 ![JS](https://skillicons.dev/icons?i=js,ts,python,cpp,react,html,css,tailwind,nodejs,express,mongodb,redis,git,github,docker,vscode,postman,linux)
 ### 🛠️ Tech Stack

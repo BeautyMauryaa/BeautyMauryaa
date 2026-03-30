@@ -73,11 +73,11 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" /></a>
-  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++" /></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="35" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS3" /></a>
   <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" /></a>
   <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="35" alt="Express.js" /></a>

@@ -1,5 +1,55 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
+
+
+
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Database</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</td>
+</tr>
+
+<tr>
+<td><strong>AI & APIs</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</td>
+</tr>
+
+</table>
 ### 🛠️ Tech Stack
 
 <p align="center">

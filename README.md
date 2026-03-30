@@ -143,6 +143,36 @@
 </div>
 
 ---
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" height="35"/>
+</td>
+
+<td><strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="35"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="35"/>
+</td>
+
+<td><strong>AI & APIs</strong><br>
+<img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2"><strong>Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="35"/>
+</td>
+</tr>
+</table>
 
 ### Contribution Insights
 <p align="center">

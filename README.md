@@ -5,6 +5,41 @@
     <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
 </p>
 
+### 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" height="32"/>
+</td>
+
+<td width="50%" valign="top">
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="32"/>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32"/>
+</td>
+
+<td valign="top">
+<strong>AI & APIs</strong><br>
+<img src="https://skillicons.dev/icons?i=fastapi" height="32"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="22"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<strong>Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="32"/>
+</td>
+</tr>
+</table>
 ---
 
 

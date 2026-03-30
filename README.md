@@ -97,6 +97,7 @@
 
 ### 📊 Contribution Insights
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&hide_border=true" width="300" height="180"/>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="300" height="180"/>
 

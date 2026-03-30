@@ -29,23 +29,35 @@
 - 🔹 **School Touch** — Digital school management system
   
 ---
-
 ### 🛠️ Tech Stack
 
-**Languages** &nbsp;
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" height="28" />
+<div align="center">
 
-**Frontend** &nbsp;
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="28" />
+<strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" height="32"/>
 
-**Backend** &nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" height="28" />
+<br><br>
 
-**AI & APIs** &nbsp;
-<img src="https://skillicons.dev/icons?i=openai,fastapi" height="28" />
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="32"/>
 
-**Tools** &nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" height="28" />
+<br><br>
+
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32"/>
+
+<br><br>
+
+<strong>AI & APIs</strong><br>
+<img src="https://skillicons.dev/icons?i=fastapi" height="32"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="22"/>
+
+<br><br>
+
+<strong>Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="32"/>
+
+</div>
 ---
 
 ## 🌐 Connect With Me  

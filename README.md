@@ -35,36 +35,57 @@
 <tr>
 <td width="120"><strong>Languages</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="35"/>
+  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=js" height="35"/>
+    <img src="https://skillicons.dev/icons?i=python" height="35"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="35"/>
+  </div>
 </td>
 </tr>
 
 <tr>
 <td><strong>Frontend</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="35"/>
+  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=react" height="35"/>
+    <img src="https://skillicons.dev/icons?i=html" height="35"/>
+    <img src="https://skillicons.dev/icons?i=css" height="35"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="35"/>
+  </div>
 </td>
 </tr>
 
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="35"/>
+  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="35"/>
+    <img src="https://skillicons.dev/icons?i=express" height="35"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="35"/>
+  </div>
 </td>
 </tr>
 
 <tr>
 <td><strong>AI & APIs</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
+  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
+    <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
+  </div>
 </td>
 </tr>
 
 <tr>
 <td><strong>Tools</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="35"/>
+  <div style="display:flex; flex-wrap:wrap; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=git" height="35"/>
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linux" height="35"/>
+    <img src="https://skillicons.dev/icons?i=postman" height="35"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="35"/>
+  </div>
 </td>
 </tr>
 </table>

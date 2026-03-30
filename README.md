@@ -1,6 +1,20 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
+### 🛠️ Tech Stack
 
+<p align="center">
+
+<strong>Languages:</strong>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" height="26"/>
+
+<strong>Full Stack:</strong>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb" height="26"/>
+
+<strong>AI & Tools:</strong>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,postman,vscode" height="26"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="16"/>
+
+</p>
 
 ### 🛠️ Tech Stack
 

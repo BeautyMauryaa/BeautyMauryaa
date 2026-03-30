@@ -94,87 +94,13 @@
  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" />
     <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 
 </div>
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-</p>
-
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-</p>
-
-
----
-
----
-
----
 
 ### 📊 Contribution Insights
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&hide_border=true"/>
 </p>
-
-<p align="center">
-  <sub>📦 Repo distribution vs ⚡ actual coding activity</sub>
-</p>
-### 📊 Contribution Insights
-
-<p align="center">
-  <i>Where my code lives vs where I spend my time</i>
-</p>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-</div>
-### 📊 Contribution Insights
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-</div>
-
----
-
-### 📊 Contribution Insights
-
-<div align="center" style="background: #0d1117; padding: 15px; border-radius: 12px;">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=tokyonight" height="150"/>
-</p>
-
 
 <h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
 ~ Noova 🦋</h3>

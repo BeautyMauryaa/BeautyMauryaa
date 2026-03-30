@@ -19,9 +19,29 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 **Pipoo** — AI Voice Desk Assistant (Python + AI APIs)
-- 🔹 **Learnex** — AI-powered learning platform (MERN + AI)
-- 🔹 **School Touch** — Digital school management system
+#### 🔹 Pipoo — AI Voice Desk Assistant *(Ongoing)*  
+- Building a cross-platform AI assistant with voice interaction and productivity features  
+- Integrating LLM APIs for real-time responses and task automation  
+- Currently working on core features like voice commands, notes, and dashboard system  
+- Tech: Python, Kivy/KivyMD, AI APIs  
+
+---
+
+#### 🔹 Learnex — AI-Powered Learning Platform  
+- Developed a full-stack platform connecting students and teachers with AI-driven features  
+- Implemented AI-based test generation, practice systems, and feedback workflows  
+- Designed scalable backend APIs and structured database models  
+- Tech: MERN Stack, MongoDB, Node.js, Express, React, AI Integration  
+
+---
+
+#### 🔹 School Touch — School Management System  
+- Built a system for managing students, teachers, and academic workflows  
+- Implemented authentication, role-based access, and structured backend APIs  
+- Focused on real-world usability and clean system design  
+- Tech: MERN Stack, JWT Authentication, MongoDB  
+
+---
   
 ---
 ### 🛠️ Tech Stack

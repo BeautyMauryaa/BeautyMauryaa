@@ -94,10 +94,13 @@
  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" />
     <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 
 </div>
+<p align="center">
 
-  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyMauryaa&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=tokyonight" height="150"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=tokyonight" height="150"/>
+
+</p>
 
 
 <h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>

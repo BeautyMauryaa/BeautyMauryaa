@@ -73,6 +73,24 @@
 </div>
 
 ---
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="35" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="35" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="35" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="35" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="35" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="35" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="35" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="35" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="35" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="35" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="35" /></a>
+</p>
 
 ### Contribution Insights
 <p align="center">

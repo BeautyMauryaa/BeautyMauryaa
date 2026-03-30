@@ -1,7 +1,9 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
+![Tech Stack](https://skillicons.dev/icons?i=js,python,cpp,react,html,css,tailwind,nodejs,express,mongodb,git,github,postman,vscode,linux)
 **Languages**
 ![](https://skillicons.dev/icons?i=js,ts,python,cpp)
 

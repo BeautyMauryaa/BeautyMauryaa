@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 
-
+### 🛠️ Tech Stack
+![JS](https://skillicons.dev/icons?i=js,ts,python,cpp,react,html,css,tailwind,nodejs,express,mongodb,redis,git,github,docker,vscode,postman,linux)
 ### 🛠️ Tech Stack
 
 <table>

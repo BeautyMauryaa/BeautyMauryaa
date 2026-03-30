@@ -97,8 +97,8 @@
 
 ### 📊 Contribution Insights
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="120"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="120"/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&hide_border=true"/>
 </p>
 

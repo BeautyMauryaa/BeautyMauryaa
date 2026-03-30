@@ -33,43 +33,41 @@
 
 <table>
 <tr>
-<td><strong>Languages</strong></td>
+<td width="120"><strong>Languages</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="35"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Frontend</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="35"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="35"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>AI & APIs</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Tools</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="35"/>
 </td>
 </tr>
-
 </table>
-
 
 ---
 ## 🌐 Connect With Me  

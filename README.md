@@ -1,6 +1,26 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" height="32"/>
+
+<br><br>
+
+<strong>Web Development</strong><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb" height="32"/>
+
+<br><br>
+
+<strong>AI & Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,postman,vscode" height="32"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="22"/>
+
+</div>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
 </p>

@@ -111,5 +111,45 @@
 
 </p>
 
+
+---
+
+---
+
+---
+
+### 📊 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+</p>
+
+<p align="center">
+  <sub>📦 Repo distribution vs ⚡ actual coding activity</sub>
+</p>
+### 📊 Contribution Insights
+
+<p align="center">
+  <i>Where my code lives vs where I spend my time</i>
+</p>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+
+</div>
+### 📊 Contribution Insights
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" height="150"/>
+
+</div>
+
 <h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
 ~ Noova 🦋</h3>

@@ -5,37 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=Beautymaurya28&color=blue" alt="Profile Views"/>
 </p>
 
-### 🛠️ Tech Stack
-
-<div style="display:flex; flex-wrap:wrap; gap:20px; width:100%;">
-
-  <div style="flex:1; min-width:250px;">
-    <strong>Languages</strong><br>
-    <img src="https://skillicons.dev/icons?i=js,python,cpp" height="32"/>
-  </div>
-
-  <div style="flex:1; min-width:250px;">
-    <strong>Frontend</strong><br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="32"/>
-  </div>
-
-  <div style="flex:1; min-width:250px;">
-    <strong>Backend</strong><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32"/>
-  </div>
-
-  <div style="flex:1; min-width:250px;">
-    <strong>AI & APIs</strong><br>
-    <img src="https://skillicons.dev/icons?i=fastapi" height="32"/>
-    <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="22"/>
-  </div>
-
-  <div style="flex:1 100%;">
-    <strong>Tools</strong><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="32"/>
-  </div>
-
-</div>
 ---
 
 
@@ -61,94 +30,17 @@
   
 ---
 ### 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="120"><strong>Languages</strong></td>
-<td>
-  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
-    <img src="https://skillicons.dev/icons?i=js" height="35"/>
-    <img src="https://skillicons.dev/icons?i=python" height="35"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="35"/>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
-    <img src="https://skillicons.dev/icons?i=react" height="35"/>
-    <img src="https://skillicons.dev/icons?i=html" height="35"/>
-    <img src="https://skillicons.dev/icons?i=css" height="35"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35"/>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="35"/>
-    <img src="https://skillicons.dev/icons?i=express" height="35"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="35"/>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td><strong>AI & APIs</strong></td>
-<td>
-  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
-    <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-  <div style="display:flex; flex-wrap:wrap; gap:8 px;">
-    <img src="https://skillicons.dev/icons?i=git" height="35"/>
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
-    <img src="https://skillicons.dev/icons?i=linux" height="35"/>
-    <img src="https://skillicons.dev/icons?i=postman" height="35"/>
-    <img src="https://skillicons.dev/icons?i=vscode" height="35"/>
-  </div>
-</td>
-</tr>
-</table>
-
-### 🛠️ Tech Stack
-
-<p>
-<strong>Languages:</strong><br>
-<img src="https://skillicons.dev/icons?i=js,python,cpp" height="35"/>
-</p>
-
-<p>
-<strong>Frontend:</strong><br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="35"/>
-</p>
-
-<p>
-<strong>Backend:</strong><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="35"/>
-</p>
-
-<p>
-<strong>AI & APIs:</strong><br>
-<img src="https://skillicons.dev/icons?i=fastapi" height="35"/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="25"/>
-</p>
-
-<p>
-<strong>Tools:</strong><br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="35"/>
-</p>
+ 
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" /> |
+| **AI & APIs** | <img src="https://skillicons.dev/icons?i=openai,fastapi" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" /> |
+ 
 ---
+
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/beautymaurya" target="_blank">

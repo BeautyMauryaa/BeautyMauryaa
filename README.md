@@ -99,9 +99,6 @@
   <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/xplorewithnova/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
-  </a>
   <a href="https://twitter.com/xplorewithnova" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
@@ -109,7 +106,7 @@
 
 ---
 
-## GitHub Analytics 
+## GitHub Stats 
 <div align="center"> 
  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" />
     <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 

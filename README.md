@@ -108,15 +108,9 @@
 
 ## GitHub Stats 
 <div align="center">
-
-  <!-- Dark Mode -->
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=dark&hide_border=true" height="150" />
-
-  <!-- Light Mode -->
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&theme=default&hide_border=true" height="150" />
-
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" />
 </div>
 
 ---

@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=22c55e&style=flat" />
 </p>
----
 
 ### 👩‍💻 About Me
 

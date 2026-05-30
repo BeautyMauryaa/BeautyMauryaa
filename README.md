@@ -1,73 +1,27 @@
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
-<h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
+<h3 align="center"> Full Stack Developer(MERN) </h3>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=22c55e&style=flat" />
+</p>
 ---
-![](https://komarev.com/ghpvc/?username=BeautyMauryaa)
+
 ### 👩‍💻 About Me
-- 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
-- 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT Authentication, AI integrations,Python and C++ (DSA)**
+
+- 🚀 On a focused journey to build a full stack AI-powered app — backend, frontend, and LLM integration.
+- 📚 Parallel track: DSA in C++.
+- 🌱 Going deep on backend architecture, auth systems, and how AI fits into real products.
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, C++**.
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
-- 😽 Fun fact: I live in just two mood — need food 🍕 or where is my laptop 💻🐱‍👤*
+- 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
+
 
  <p align="center">
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="360"/> 
 <img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="300">
-
-### 🔹 Pipoo *(Ongoing)*
-🚧 AI Voice Desk Assistant  
-
-- Voice-based AI interaction  
-- LLM integration for tasks  
-- Productivity dashboard (WIP)  
-
-**Tech:** Python, Kivy, AI APIs  
-
-</td>
-
-<td width="300">
-
-### 🔹 Learnex  
-🎓 AI Learning Platform  
-
-- AI test generator & practice  
-- Student–teacher system  
-- Backend APIs + DB design  
-
-**Tech:** MERN, AI Integration  
-
-</td>
-
-<td width="300">
-
-### 🔹 School Touch  
-🏫 Management System  
-
-- Role-based authentication  
-- Student & teacher management  
-- Clean backend architecture  
-
-**Tech:** MERN, JWT, MongoDB  
-
-</td>
-
-</tr>
-</table>
-
-</div>
-  
 ---
 
 ### 🛠️ Tech Stack

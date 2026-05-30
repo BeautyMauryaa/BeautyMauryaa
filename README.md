@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=BeautyMauryaa&color=green&style=flat)
+![](https://komarev.com/ghpvc/?username=BeautyMauryaa&style=flat&color=ffffff&label=)
 ### 👩‍💻 About Me
 - 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
 - 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.
@@ -110,7 +110,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" />
   
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" /> 
 </div>
 
 ---

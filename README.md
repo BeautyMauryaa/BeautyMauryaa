@@ -1,4 +1,5 @@
 <img src="./banner.png" width="100%" alt="GitHub Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&section=header&text=Hey%2C%20I'm%20Nova%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20%7C%20Building%20in%20Public&descAlignY=58&descSize=18" width="100%"/>
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center"> Full Stack Developer(MERN) </h3>
 

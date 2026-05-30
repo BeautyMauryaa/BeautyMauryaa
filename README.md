@@ -1,3 +1,4 @@
+<img src="./banner.png" width="100%" alt="GitHub Banner" />
 <h2 align="center">Hello👋,I am Nova (aka Beauty) 😊</h2>
 <h3 align="center"> Full Stack Developer(MERN) </h3>
 

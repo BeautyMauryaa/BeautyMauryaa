@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer(MERN) | AI Enthusiast</h3>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=BeautyMauryaa&color=green&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=BeautyMaury28&color=green&style=flat)
 ### 👩‍💻 About Me
 - 🌱 Focused on strengthening my fundamentals in AI-Powered Full Stack Development while progressing toward AI/ML specialization.
 - 💻 Currently mastering **AI-Powered Full Stack Developer** + practicing **DSA in C++**.

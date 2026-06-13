@@ -17,9 +17,9 @@
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 
- <p align="center">
-<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="360"/> 
-<img src="https://gifdb.com/images/high/anime-food-girl-student-54f4t2h1dmomjx6a.gif" alt="Anime Gif" width="350"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" alt="Anime Gif" width="360"/>
+  <img src="./current-banner.jfif" alt="Current Banner" width="350"/>
 </p>
 
 ---

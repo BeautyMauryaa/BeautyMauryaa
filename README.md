@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🚀 On a focused journey to build a full stack AI-powered app — backend, frontend, and LLM integration.
+- 🚀 On a focused journey to build a full stack AI-powered app — backend and LLM integration.
 - 📚 Parallel track: DSA in C++.
 - 🌱 Going deep on backend architecture, auth systems, and how AI fits into real products.
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, C++**.

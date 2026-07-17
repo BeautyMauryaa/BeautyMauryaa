@@ -11,7 +11,7 @@
 
 - 🚀 On a focused journey to build a full stack AI-powered app — backend and LLM integration.
 - 📚 Parallel track: DSA in C++.
-- 🌱 Going deep on backend architecture, auth systems, and how AI fits into real products.
+- 🌱 Going deep on backend architecture, auth systems,Rest API and how AI fits into real products.
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, C++**.
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕

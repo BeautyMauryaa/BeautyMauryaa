@@ -23,6 +23,8 @@
 - 🧠 Interested in backend development, APIs, databases, and building reliable applications.
 - 🗣️ Also working on improving my **communication, confidence, and technical explanation skills**.
 - 🎯 Long-term goal: **DevOps / Cloud Engineering**.
+- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++ and Git/GitHub **.
+- 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 <br>
 
@@ -108,8 +110,8 @@ Beyond technology, I'm also working on becoming a better **communicator, problem
 
 ---
 
-<h3 align="center">
-  ✨ Learning. Building. Growing. ✨
+   <h3 align="center">
+  ✨ Curious. Creating. Becoming. ✨
 </h3>
 
 <h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>

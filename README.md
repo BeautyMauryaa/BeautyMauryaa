@@ -54,8 +54,6 @@ here is old one with all wrong information update this with correct information 
 
 ---
 
-<h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
-~ Noova 🦋</h3>
 
 
 <img src="./current-banner.jfif" width="100%" alt="GitHub Banner" />
@@ -103,16 +101,12 @@ here is old one with all wrong information update this with correct information 
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning (August Goal)
 
 <p align="center">
 
 `PostgreSQL` &nbsp;•&nbsp;
-`DSA in C++` &nbsp;•&nbsp;
 `Backend Development` &nbsp;•&nbsp;
-`Docker` &nbsp;•&nbsp;
-`DevOps` &nbsp;•&nbsp;
-`Cloud Computing` &nbsp;•&nbsp;
 `System Design`
 
 </p>
@@ -174,10 +168,5 @@ Beyond technology, I'm also working on becoming a better **communicator, problem
   ✨ Learning. Building. Growing. ✨
 </h3>
 
-<p align="center">
-  <i>"I don't want to just learn technology — I want to understand it, build with it, and keep growing along the way."</i>
-</p>
-
-<p align="center">
-  ~ Noova 🦋
-</p>
+<h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
+~ Noova 🦋</h3>

@@ -9,15 +9,13 @@ here is old one with all wrong information update this with correct information 
 
 ### 👩‍💻 About Me
 
-- 💻 Software Development Intern with hands-on experience in full-stack web development.
-- 🚀 Working with both **MERN and PERN stacks**, building web applications, REST APIs, and backend services.
-- 🗄️ Currently deepening my knowledge of **PostgreSQL** and relational databases.
-- 📚 Strengthening my problem-solving skills through **Data Structures & Algorithms in C++**.
-- 🌱 Exploring **DevOps, Cloud Computing, Docker, deployment, and system design**.
-- 🧠 Interested in backend development, API design, authentication, databases, and scalable applications.
-- 🗣️ Also working on improving my **communication, confidence, and ability to explain technical ideas clearly**.
-- 🎯 My long-term goal is to grow into a **DevOps / Cloud Engineer**.
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, and C++**.
+- 💻 Software Development Intern with experience in **Full-Stack Development (MERN & PERN)**.
+- 🗄️ Currently learning **PostgreSQL** and strengthening **DSA with C++**.
+- ☁️ Exploring **DevOps, Cloud, Docker, and System Design**.
+- 🧠 Interested in backend development, APIs, databases, and building reliable applications.
+- 🗣️ Also working on improving my communication, problem-solving, and technical explanation skills.
+- 🎯 Long-term goal: **DevOps / Cloud Engineering**.
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, Git and C++**.
 - 📫 Reach me at: **beautymaurya9142@gmail.com**
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
@@ -28,101 +26,11 @@ here is old one with all wrong information update this with correct information 
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,html,css,nodejs,express,mongodb,postgres,git,github,postman,vscode,linux" height="45" alt="Tech Stack" />
 </p>
-
-#### 🌐 Frontend
-
-<p align="left">
-  <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
-  </a>
-</p>
-
-#### ⚙️ Backend
-
-<p align="left">
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" title="Express.js">
-    <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" />
-  </a>
-</p>
-
-#### 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
-  </a>
-</p>
-
-#### 🧰 Tools & Technologies
-
-<p align="left">
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  <a href="https://www.postman.com/" title="Postman">
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
-  </a>
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
-  </a>
-</p>
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/beautymaurya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:beautymaurya9142@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/xplorewithnova" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
-  </a>
-</p>
-
----
-
-## GitHub Stats 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150" />  -->
-</div>
 
 ---
 

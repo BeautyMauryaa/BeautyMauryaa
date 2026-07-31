@@ -23,7 +23,8 @@
 - 🧠 Interested in backend development, APIs, databases, and building reliable applications.
 - 🗣️ Also working on improving my **communication, confidence, and technical explanation skills**.
 - 🎯 Long-term goal: **DevOps / Cloud Engineering**.
-- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++ and Git/GitHub **.
+- - 📫 Reach me at: **beautymaurya7764@gmail.com**
+- 💬 Ask me about:  **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++ and Git/GitHub **.
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 <br>
@@ -86,7 +87,7 @@ Beyond technology, I'm also working on becoming a better **communicator, problem
 </p>
 
 <p align="center">
-  📫 <strong>beautymaurya9142@gmail.com</strong>
+  📫 <strong>beautymaurya7764@gmail.com</strong>
 </p>
 
 ---

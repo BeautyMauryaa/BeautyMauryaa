@@ -165,8 +165,4 @@ For me, learning is not limited to technology. I am also working on becoming a b
 
 ---
 
-<h3 align="center">
-  I don't want to just learn technology — I want to understand it, build with it, and keep growing along the way.
-  <br><br>
-  ~ Noova 🦋
-</h3>
+<h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br> ~ Noova 🦋</h3>

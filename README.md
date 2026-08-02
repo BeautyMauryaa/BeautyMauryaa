@@ -22,7 +22,6 @@
 - ☁️ Exploring **DevOps, Cloud, Docker, deployment, and system design**.
 - 🧠 Interested in backend development, APIs, databases, and building reliable applications.
 - 🗣️ Also working on improving my **communication, confidence, and technical explanation skills**.
-- 🎯 Long-term goal: **DevOps / Cloud Engineering**.
 - 📫 Reach me at: **beautymaurya7764@gmail.com**
 - 💬 Ask me about:  **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++ and Git/GitHub **.
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
@@ -62,7 +61,7 @@
 
 ### 🚀 Where I'm Heading
 
-I'm building my foundation as a **Full-Stack Developer** while gradually moving toward **DevOps and Cloud Engineering**.
+I'm building my foundation as a **Full-Stack Developer** while gradually moving toward **DevOps and Cloud **.
 
 I want to understand the complete journey of an application—from writing code and designing APIs to deploying, scaling, and maintaining reliable systems.
 

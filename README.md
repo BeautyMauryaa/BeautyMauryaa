@@ -23,7 +23,7 @@
 * 🗣️ Continuously improving my **communication, confidence, and technical explanation skills**.
 * ☁️ My long-term direction is **DevOps & Cloud Engineering**, which I'll be exploring after strengthening my full-stack and database foundation.
 * 💬 Ask me about: **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, C++, and Git/GitHub**.
-* 📫 Reach me at: **[beautymaurya7764@gmail.com](mailto:beautymaurya7764@gmail.com)**
+* 📫 Reach me at: **[beautymaurya9142@gmail.com](mailto:beautymaurya9142@gmail.com)**
 * 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 <br>
@@ -113,7 +113,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 </p>
 
 <p align="center">
-  📫 <strong>beautymaurya7764@gmail.com</strong>
+  📫 <strong>beautymaurya9142@gmail.com</strong>
 </p>
 
 ---

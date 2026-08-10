@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
 
 <h3 align="center">
-  Full-Stack Developer • MERN • PostgreSQL • C++ & DSA • Future DevOps & Cloud Engineer ☁️
+  Full-Stack Developer • AI Enthusiast • DevOps & Cloud Enthusiast☁️
 </h3>
 
 <p align="center">

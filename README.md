@@ -1,5 +1,3 @@
-
-
 <img src="./current-banner.jfif" width="100%" alt="GitHub Banner" />
 
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
@@ -10,6 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BeautyMauryaa?label=Followers&style=flat-square&color=22c55e" alt="Followers" />
 </p>
 
 ---
@@ -23,7 +22,7 @@
 - 🧠 Interested in backend development, APIs, databases, and building reliable applications.
 - 🗣️ Also working on improving my **communication, confidence, and technical explanation skills**.
 - 📫 Reach me at: **beautymaurya7764@gmail.com**
-- 💬 Ask me about:  **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++ and Git/GitHub **.
+- 💬 Ask me about: **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++, and Git/GitHub**.
 - 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 <br>
@@ -61,11 +60,34 @@
 
 ### 🚀 Where I'm Heading
 
-I'm building my foundation as a **Full-Stack Developer** while gradually moving toward **DevOps and Cloud **.
+I'm building my foundation as a **Full-Stack Developer** while gradually moving toward **DevOps and Cloud Engineering**.
 
-I want to understand the complete journey of an application—from writing code and designing APIs to deploying, scaling, and maintaining reliable systems.
+I want to understand the complete journey of an application — from writing code and designing APIs to deploying, scaling, and maintaining reliable systems.
 
 Beyond technology, I'm also working on becoming a better **communicator, problem-solver, and lifelong learner**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e&rank_icon=default" height="150" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📈 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=facc15" width="95%" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -91,30 +113,11 @@ Beyond technology, I'm also working on becoming a better **communicator, problem
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" />
- <img
-    src="https://github-stats-extended.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e&rank_icon=default"
-    height="150"
-  />
-
----
-
-### 📈 Contribution Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" width="230" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" />
-</p>
-
----
-
-   <h3 align="center">
+<h3 align="center">
   ✨ Curious. Creating. Becoming. ✨
 </h3>
 
-<h3 align="center">Every day I either improve or fall behind—so I choose improvement, no matter what!<br>
-~ Noova 🦋</h3>
+<h3 align="center">
+  Every day I either improve or fall behind — so I choose improvement, no matter what!<br>
+  ~ Noova 🦋
+</h3>

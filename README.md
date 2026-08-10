@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
 
 <h3 align="center">
-  Full-Stack Developer • MERN & PERN • C++ & DSA • Exploring DevOps & Cloud ☁️
+  Full-Stack Developer • MERN • PostgreSQL • C++ & DSA • Future DevOps & Cloud Engineer ☁️
 </h3>
 
 <p align="center">
@@ -15,15 +15,16 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Software Development Intern with experience in **Full-Stack Development (MERN & PERN)**.
-- 🗄️ Currently deepening my knowledge of **PostgreSQL** and relational databases.
-- 📚 Strengthening my problem-solving skills through **DSA with C++**.
-- ☁️ Exploring **DevOps, Cloud, Docker, deployment, and system design**.
-- 🧠 Interested in backend development, APIs, databases, and building reliable applications.
-- 🗣️ Also working on improving my **communication, confidence, and technical explanation skills**.
-- 📫 Reach me at: **beautymaurya7764@gmail.com**
-- 💬 Ask me about: **JavaScript, React, Node.js, PostgreSQL, REST APIs, MongoDB, C++, and Git/GitHub**.
-- 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
+* 💻 BCA student with hands-on experience in **Full-Stack Development (MERN)**.
+* 🗄️ Currently learning and strengthening my knowledge of **PostgreSQL** and relational databases.
+* 🚀 Working on projects including **Learnex** and **Pipoo**.
+* 🧠 Interested in **backend development, APIs, databases, AI, and building practical applications**.
+* 📚 Consistently practicing **DSA with C++** to strengthen my problem-solving skills.
+* 🗣️ Continuously improving my **communication, confidence, and technical explanation skills**.
+* ☁️ My long-term direction is **DevOps & Cloud Engineering**, which I'll be exploring after strengthening my full-stack and database foundation.
+* 💬 Ask me about: **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, C++, and Git/GitHub**.
+* 📫 Reach me at: **[beautymaurya7764@gmail.com](mailto:beautymaurya7764@gmail.com)**
+* 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
 <br>
 
@@ -37,22 +38,22 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,html,css,nodejs,express,mongodb,postgres,git,github,postman,vscode,linux" height="45" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,html,css,nodejs,express,mongodb,postgres,git,github,postman,vscode" height="45" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <sub>JavaScript • Python • C++ • React • HTML • CSS • Node.js • Express.js • MongoDB • PostgreSQL • Git • GitHub • Postman • VS Code • Linux</sub>
+  <sub>JavaScript • Python • C++ • React • HTML • CSS • Node.js • Express.js • MongoDB • PostgreSQL • Git • GitHub • Postman • VS Code</sub>
 </p>
 
 ---
 
-### 🌱 Currently Learning (August Goal)
+### 🌱 Currently Learning — August 2026
 
 <p align="center">
 
-`PostgreSQL` &nbsp;•&nbsp;
-`Backend Development` &nbsp;•&nbsp;
-`System Design`
+`PostgreSQL`  • 
+`Relational Databases`  • 
+`Backend Integration`
 
 </p>
 
@@ -60,11 +61,15 @@
 
 ### 🚀 Where I'm Heading
 
-I'm building my foundation as a **Full-Stack Developer** while gradually moving toward **DevOps and Cloud Engineering**.
+I'm strengthening my foundation in **Full-Stack Development and Backend Engineering** while gradually preparing for my long-term goal of becoming a **DevOps & Cloud Engineer**.
 
-I want to understand the complete journey of an application — from writing code and designing APIs to deploying, scaling, and maintaining reliable systems.
+Right now, my focus is on building a strong foundation through **PostgreSQL, backend development, and real-world projects**.
 
-Beyond technology, I'm also working on becoming a better **communicator, problem-solver, and lifelong learner**.
+After completing my current projects, I'll move toward **Linux, Docker, networking, CI/CD, and cloud technologies** step by step.
+
+I want to understand the complete journey of an application — from writing code and designing APIs to deploying, automating, and maintaining reliable systems.
+
+Alongside technical growth, I'm continuously working on becoming a better **problem-solver, communicator, and engineer**.
 
 ---
 
@@ -98,7 +103,7 @@ Beyond technology, I'm also working on becoming a better **communicator, problem
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:beautymaurya9142@gmail.com">
+  <a href="mailto:beautymaurya7764@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" />
   </a>
   &nbsp;&nbsp;

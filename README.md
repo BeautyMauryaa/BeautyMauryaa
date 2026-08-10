@@ -103,7 +103,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:beautymaurya7764@gmail.com">
+  <a href="mailto:beautymaurya9142@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" />
   </a>
   &nbsp;&nbsp;

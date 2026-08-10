@@ -1,4 +1,4 @@
-<img src="./current-banner.jfif" width="100%" alt="GitHub Banner" />
+<img src="./banner.png" width="100%" alt="GitHub Banner" />
 
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
 

@@ -82,7 +82,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 
 ---
 
-### 📈 Contribution Insights
+<!-- ### 📈 Contribution Insights -->
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" alt="Productive Time" />

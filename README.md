@@ -84,7 +84,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 
 ### 📈 Contribution Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
@@ -94,7 +94,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=facc15" width="95%" alt="Contribution Graph" />
 </p>
 
----
+--- -->
 
 ### 🌐 Let's Connect
 

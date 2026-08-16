@@ -120,7 +120,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@xplorewnova" target="_blank">
+  <a href="https://www.youtube.com/@xplrwithnova" target="_blank">
     <img
       src="https://cdn.simpleicons.org/youtube/FF0000"
       width="42"

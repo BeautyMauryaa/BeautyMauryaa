@@ -108,8 +108,14 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/xplorewithnova" target="_blank">
+  <a href="https://x.com/xplrwithnova" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/xplrwithnova?igsh=ZDE3Z2gyZG9peW11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@xplrwithnova" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="42" alt="Youtube" />
   </a>
 </p>
 

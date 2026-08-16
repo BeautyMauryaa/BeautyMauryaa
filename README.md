@@ -104,25 +104,34 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
+
   <a href="mailto:beautymaurya9142@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
+
   <a href="https://x.com/xplrwithnova" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/xplrwithnova?igsh=ZDE3Z2gyZG9peW11" target="_blank">
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/xplrwithnova" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@xplrwithnova" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="42" alt="Youtube" />
+  &nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@xplorewnova" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/youtube/FF0000"
+      width="42"
+      alt="YouTube"
+    />
   </a>
 </p>
 
 <p align="center">
   📫 <strong>beautymaurya9142@gmail.com</strong>
 </p>
-
 ---
 
 <h3 align="center">

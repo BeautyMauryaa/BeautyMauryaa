@@ -132,6 +132,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 <p align="center">
   📫 <strong>beautymaurya9142@gmail.com</strong>
 </p>
+
 ---
 
 <h3 align="center">

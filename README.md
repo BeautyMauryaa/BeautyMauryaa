@@ -13,7 +13,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About  Me
 
 * 💻 BCA student with hands-on experience in **Full-Stack Development (MERN)**.
 * 🗄️ Currently learning and strengthening my knowledge of **PostgreSQL** and relational databases.

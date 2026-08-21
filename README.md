@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About  Me
 
-* 💻 BCA student with hands-on experience in **Full-Stack Development (MERN)**.
+* 💻 BCA student with hands-on experience  in **Full-Stack Development (MERN)**.
 * 🗄️ Currently learning and strengthening my knowledge of **PostgreSQL** and relational databases.
 * 🚀 Working on projects including **Learnex** and **Pipoo**.
 * 🧠 Interested in **backend development, APIs, databases, AI, and building practical applications**.

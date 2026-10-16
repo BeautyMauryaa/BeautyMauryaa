@@ -91,9 +91,10 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 </p>
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeautyMauryaa&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=facc15" width="95%" alt="Contribution Graph" />
-</p> -->
+</p>
+ 
 
 ---
 

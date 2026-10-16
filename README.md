@@ -13,7 +13,7 @@
 
 ### About me
 
-- 💻 BCA graduate with hands-on experience building web applications.
+- 💻 Developer with a BCA background and hands-on experience building web applications.
 - 🔧 Currently focused on backend engineering, APIs, databases, and deployment fundamentals.
 - 🤖 Interested in practical AI integrations—not just demos.
 - 🧩 Building projects including **QA-Sentinel**, **Aether Capital**, **Learnex**, and **Pipoo**.

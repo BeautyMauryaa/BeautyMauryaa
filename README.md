@@ -35,8 +35,11 @@
 | [QA-Sentinel](https://github.com/BeautyMauryaa/QA-Sentinel) | Playwright-based web QA automation with run history and regression comparisons. |
 | [Aether Capital](https://github.com/BeautyMauryaa/AetherCapital) | Full-stack onboarding and compliance workflow application. |
 | [Learnex](https://github.com/BeautyMauryaa/learnex) | AI-enabled learning platform in active development. |
-| [Pipoo](https://github.com/BeautyMauryaa/Pipoo-Clearity-AI) | Desktop AI assistant concept focused on voice interaction and productivity tools. |
-| [Hazel-Eight](https://github.com/BeautyMauryaa/Hazel-Eight) | A bouncing-button task that grew into a browser game. |
+| [SchoolTouch](https://github.com/BeautyMauryaa/SchoolTouch) | MERN school management system with role-based academic workflows. |
+| [Pipoo](https://github.com/BeautyMauryaa/Pipoo-Voice-Assistant) | Python desktop assistant with voice interaction, Gemini responses, notes, and reminders. |
+| [Clarity AI](https://github.com/BeautyMauryaa/Pipoo-Clearity-AI) | Career-clarity platform in development with a Next.js frontend and FastAPI backend foundation. |
+
+I also built [Hazel-Eight](https://github.com/BeautyMauryaa/Hazel-Eight), a small bouncing-button task that grew into a JavaScript browser game.
 
 ### What I'm focused on now
 

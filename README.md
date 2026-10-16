@@ -77,7 +77,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BeautyMauryaa&hide_border=true&background=0d1117&ring=22c55e&fire=facc15&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=22c55e" height="150" alt="GitHub Streak Stats" />
-  <img src="https://github-stats-extended.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e&rank_icon=default" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BeautyMauryaa&show_icons=true&hide_border=tre&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e&rank_icon=default" height="150" alt="GitHub Stats" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cads.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
 </p>
 
 

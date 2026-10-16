@@ -87,7 +87,7 @@ Alongside technical growth, I'm continuously working on becoming a better **prob
  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeautyMauryaa&theme=github_dark&utcOffset=5.5" width="230" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cads.vercel.app/api/cards/most-commit-language?username=BeautyMauryaa&theme=github_dark" width="230" alt="Most Commit Language" />
 </p>
 
 

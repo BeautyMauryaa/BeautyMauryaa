@@ -55,18 +55,15 @@
 </p>
 
 ---
-
 ### 🚀 Where I'm Heading
 
-I'm strengthening my skills in **Backend and Full-Stack Development** while working toward my long-term goal of becoming a **DevOps & Cloud Engineer**.
+I'm focused on growing as a **Backend Developer**, building strong fundamentals in server-side development, API design, databases, and application architecture.
 
-My current focus is on **backend development, PostgreSQL, and building real-world projects** to develop a solid understanding of how applications work.
+My long-term goal is to move into **Cloud & DevOps Engineering**, where I can work on deploying applications, automating workflows, and building reliable systems.
 
-As I progress, I'll expand into **Linux, Docker, networking, CI/CD, and cloud technologies**.
+I'm gradually expanding my understanding of the complete application lifecycle — from development and system design to deployment and maintenance.
 
-I want to understand the complete lifecycle of an application — from writing code and designing APIs to deploying, automating, and maintaining reliable systems.
-
-Alongside technical growth, I'm also working on becoming a better **problem-solver, communicator, and engineer**.
+Along the way, I'm working on becoming a better **problem-solver, communicator, and engineer**.
 
 ---
 

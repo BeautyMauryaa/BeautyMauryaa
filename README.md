@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
 
 <h3 align="center">
-  Full-Stack Developer • AI Enthusiast • DevOps & Cloud Enthusiast☁️
+   Backend Developer | Aspiring Cloud & DevOps Engineer☁️
 </h3>
 
 <p align="center">
@@ -34,42 +34,39 @@
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,html,css,nodejs,express,mongodb,postgres,git,github,postman,vscode" height="45" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,nodejs,express,fastapi,mongodb,postgres,react,html,css,git,github,postman,vscode" height="45" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <sub>JavaScript • Python • C++ • React • HTML • CSS • Node.js • Express.js • MongoDB • PostgreSQL • Git • GitHub • Postman • VS Code</sub>
+  <sub>
+    JavaScript • Python • C++ • Node.js • Express.js • FastAPI • MongoDB • PostgreSQL • React • HTML • CSS • Git • GitHub • Postman • VS Code
+  </sub>
 </p>
 
 ---
 
-### 🌱 Currently Learning — August 2026
+### 🌱 Currently Learning
 
 <p align="center">
-
-`PostgreSQL`  • 
-`Relational Databases`  • 
-`Backend Integration`
-
+  `Backend Engineering` • `Database Design` • `API Development`
 </p>
 
 ---
 
 ### 🚀 Where I'm Heading
 
-I'm strengthening my foundation in **Full-Stack Development and Backend Engineering** while gradually preparing for my long-term goal of becoming a **DevOps & Cloud Engineer**.
+I'm strengthening my skills in **Backend and Full-Stack Development** while working toward my long-term goal of becoming a **DevOps & Cloud Engineer**.
 
-Right now, my focus is on building a strong foundation through **PostgreSQL, backend development, and real-world projects**.
+My current focus is on **backend development, PostgreSQL, and building real-world projects** to develop a solid understanding of how applications work.
 
-After completing my current projects, I'll move toward **Linux, Docker, networking, CI/CD, and cloud technologies** step by step.
+As I progress, I'll expand into **Linux, Docker, networking, CI/CD, and cloud technologies**.
 
-I want to understand the complete journey of an application — from writing code and designing APIs to deploying, automating, and maintaining reliable systems.
+I want to understand the complete lifecycle of an application — from writing code and designing APIs to deploying, automating, and maintaining reliable systems.
 
-Alongside technical growth, I'm continuously working on becoming a better **problem-solver, communicator, and engineer**.
+Alongside technical growth, I'm also working on becoming a better **problem-solver, communicator, and engineer**.
 
 ---
 

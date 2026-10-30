@@ -13,16 +13,15 @@
 
 ---
 
-### 👩‍💻 About  Me
+### 👩‍💻 About Me
 
-* 💻 BCA student with hands-on experience  in **Full-Stack Development (MERN)**.
-* 🗄️ Currently learning and strengthening my knowledge of **PostgreSQL** and relational databases.
-* 🚀 Working on projects including **Learnex** and **Pipoo**.
-* 🧠 Interested in **backend development, APIs, databases, AI, and building practical applications**.
-* 📚 Consistently practicing **DSA with C++** to strengthen my problem-solving skills.
-* 🗣️ Continuously improving my **communication, confidence, and technical explanation skills**.
-* ☁️ My long-term direction is **DevOps & Cloud Engineering**, which I'll be exploring after strengthening my full-stack and database foundation.
-* 💬 Ask me about: **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, C++, and Git/GitHub**.
+* 💻 BCA graduate with hands-on experience in software development and backend-focused projects.
+* 🚀 Built projects involving **backend development, REST APIs, database integration, and automation**.
+* 🧠 Interested in **backend engineering, system design, AI integration, and building practical applications**.
+* 📚 Practicing **DSA with C++** to improve my problem-solving skills.
+* 🗣️ Continuously improving my communication and technical explanation skills.
+* ☁️ Exploring **Cloud & DevOps** as my long-term career direction.
+* 💬 Ask me about: **JavaScript, Node.js, Express.js, REST APIs, MongoDB, Python, C++, and Git/GitHub**.
 * 📫 Reach me at: **[beautymaurya9142@gmail.com](mailto:beautymaurya9142@gmail.com)**
 * 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
 
@@ -37,21 +36,22 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,nodejs,express,fastapi,mongodb,postgres,react,html,css,git,github,postman,vscode" height="45" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,express,mongodb,react,tailwind,git,github,postman,playwright,vscode" height="50" alt="Tech Stack" />
 </p>
 
 <p align="center">
   <sub>
-    JavaScript • Python • C++ • Node.js • Express.js • FastAPI • MongoDB • PostgreSQL • React • HTML • CSS • Git • GitHub • Postman • VS Code
+    JavaScript • TypeScript • Python • C++ • Node.js • Express.js • MongoDB • React • HTML • CSS • Tailwind CSS • Git • GitHub • Postman • Playwright • VS Code
   </sub>
 </p>
+
 
 ---
 
 ### 🌱 Currently Learning
 
 <p align="center">
-  `Backend Engineering` • `Database Design` • `API Development`
+  `Backend Engineering` • `System Design` • `Cloud & DevOps Fundamentals`
 </p>
 
 ---

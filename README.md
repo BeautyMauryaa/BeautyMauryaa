@@ -110,7 +110,7 @@ Along the way, I'm working on becoming a better **problem-solver, communicator, 
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/xplrwithnova" target="_blank">
+  <a href="https://www.instagram.com/merotwin" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram" />
   </a>
   &nbsp;&nbsp;

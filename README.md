@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋 I'm Nova (aka Beauty) 🐈‍⬛</h2>
 
 <h3 align="center">
-   Backend Developer | Aspiring Cloud & DevOps Engineer☁️
+   Backend-Focused Software Developer | AI Automation 🤖
 </h3>
 
 <p align="center">
@@ -18,9 +18,10 @@
 * 💻 BCA graduate with hands-on experience in software development and backend-focused projects.
 * 🚀 Built projects involving **backend development, REST APIs, database integration, and automation**.
 * 🧠 Interested in **backend engineering, system design, AI integration, and building practical applications**.
+* ⚙️ Currently deepening my knowledge in **backend engineering** and working on **AI automation**.
 * 📚 Practicing **DSA with C++** to improve my problem-solving skills.
 * 🗣️ Continuously improving my communication and technical explanation skills.
-* ☁️ Exploring **Cloud & DevOps** as my long-term career direction.
+* ☁️ Long-term goal: growing into **Cloud & DevOps** with **AI automation** as part of the journey.
 * 💬 Ask me about: **JavaScript, Node.js, Express.js, REST APIs, MongoDB, Python, C++, and Git/GitHub**.
 * 📫 Reach me at: **[beautymaurya9142@gmail.com](mailto:beautymaurya9142@gmail.com)**
 * 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕
@@ -51,17 +52,15 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  `Backend Engineering` • `System Design` • `Cloud & DevOps Fundamentals`
+  `Backend Engineering` • `System Design` • `AI Automation`
 </p>
 
 ---
 ### 🚀 Where I'm Heading
 
-I'm focused on growing as a **Backend Developer**, building strong fundamentals in server-side development, API design, databases, and application architecture.
+**Right now:** I'm focused on growing as a **Backend-Focused Software Developer**, building strong fundamentals in server-side development, API design, databases, and application architecture. Alongside that, I'm exploring **AI automation**, using AI to build smarter workflows and practical tools on top of solid backend systems.
 
-My long-term goal is to move into **Cloud & DevOps Engineering**, where I can work on deploying applications, automating workflows, and building reliable systems.
-
-I'm gradually expanding my understanding of the complete application lifecycle — from development and system design to deployment and maintenance.
+**Long term:** I want to grow into **Cloud & DevOps Engineering**, where I can combine backend knowledge with deployment, automation, and reliable infrastructure, and bring **AI automation** into those workflows too.
 
 Along the way, I'm working on becoming a better **problem-solver, communicator, and engineer**.
 

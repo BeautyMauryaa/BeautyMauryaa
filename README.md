@@ -21,7 +21,7 @@
 * ⚙️ Currently deepening my knowledge in **backend engineering** and working on **AI automation**.
 * 📚 Practicing **DSA with C++** to improve my problem-solving skills.
 * 🗣️ Continuously improving my communication and technical explanation skills.
-* ☁️ Long-term goal: growing into **Cloud & DevOps** with **AI automation** as part of the journey.
+* ☁️ Long-term goal: growing into **Cloud & DevOps** eng as part of the journey.
 * 💬 Ask me about: **JavaScript, Node.js, Express.js, REST APIs, MongoDB, Python, C++, and Git/GitHub**.
 * 📫 Reach me at: **[beautymaurya9142@gmail.com](mailto:beautymaurya9142@gmail.com)**
 * 😄 Fun fact: Debugging at 2am hits different when there's food involved 🍕

@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BeautyMauryaa&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" /> 
   <img src="https://img.shields.io/github/followers/BeautyMauryaa?label=Followers&style=flat-square&color=22c55e" alt="Followers" />
 </p>
 
